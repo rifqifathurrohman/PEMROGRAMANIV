@@ -1,0 +1,4 @@
+#Wed Oct 19 11:03:29 ICT 2022
+base.0=D\:\\android-advanced-starter-apps-master\\RecyclerView_start\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
